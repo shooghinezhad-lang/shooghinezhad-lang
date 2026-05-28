@@ -1,16 +1,19 @@
-## Hi there 👋
+# Aydin is here😁
+## ⚜ About me :  ```I am Aydin, a programmer interested in hacking, security, and artificial intelligence with a great passion for learning.```
 
-<!--
-**shooghinezhad-lang/shooghinezhad-lang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 👀 Tech stack: 
+<img alt="Static Badge" src="https://img.shields.io/badge/OWASP-black?logo=owasp">
 
-Here are some ideas to get you started:
+<img alt="Static Badge" src="https://img.shields.io/badge/python-black?logo=python"> <img alt="Static Badge" src="https://img.shields.io/badge/numpy-black?logo=numpy"> <img alt="Static Badge" src="https://img.shields.io/badge/TensorFlow-black?logo=tensorflow"> <img alt="Static Badge" src="https://img.shields.io/badge/Keras-black?logo=keras"> <img alt="Static Badge" src="https://img.shields.io/badge/Pandas-black?logo=pandas">
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<img alt="Static Badge" src="https://img.shields.io/badge/javascript-black?logo=javascript"> <img alt="Static Badge" src="https://img.shields.io/badge/React-black?logo=react"> <img alt="Static Badge" src="https://img.shields.io/badge/php-black?logo=php"> <img alt="Static Badge" src="https://img.shields.io/badge/JSON-black?logo=json">
+
+<img alt="Static Badge" src="https://img.shields.io/badge/C%2B%2B-black?logo=c%2B%2B">
+
+<img alt="Static Badge" src="https://img.shields.io/badge/Rust-black?logo=rust">
+
+<img alt="Static Badge" src="https://img.shields.io/badge/Git-black?logo=git"> <img alt="Static Badge" src="https://img.shields.io/badge/Github-black?logo=github">
+
+<img alt="Static Badge" src="https://img.shields.io/badge/mysql-black?logo=mysql">
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=shooghinezhad-lang&show_icons=true&bg_color=00000000)
