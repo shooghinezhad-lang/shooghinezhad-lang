@@ -1,4 +1,8 @@
-# Aydin is here😁
+# Aydin is here😁 
+<img width="1500" height="500" alt="1500x500" src="https://github.com/user-attachments/assets/e6c1f3a5-ab61-4769-b7bf-9708fc17ffeb" />
+
+
+
 ## ⚜ About me :  ```I am Aydin, a programmer interested in hacking, security, and artificial intelligence with a great passion for learning.```
 
 ### 👀 Tech stack: 
