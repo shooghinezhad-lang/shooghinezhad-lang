@@ -14,6 +14,8 @@
 
 <img alt="Static Badge" src="https://img.shields.io/badge/Git-black?logo=git"> <img alt="Static Badge" src="https://img.shields.io/badge/Github-black?logo=github">
 
-<img alt="Static Badge" src="https://img.shields.io/badge/mysql-black?logo=mysql">
+<img alt="Static Badge" src="https://img.shields.io/badge/mysql-black?logo=mysql"> 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=shooghinezhad-lang&show_icons=true&bg_color=00000000)
+
+## When the moon shone we did not see the candle✒
+
